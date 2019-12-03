@@ -134,3 +134,4 @@ User.prototype.changePostRating = function(id, newRating){
 }
 
 //cant use index of??? find index??
+//why?
